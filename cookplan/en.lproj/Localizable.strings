@@ -1,0 +1,98 @@
+"app_name" = "Cook Plan Roar";
+"tab_recipes" = "Recipes";
+"tab_planner" = "Planner";
+"tab_groceries" = "Groceries";
+"tab_favorites" = "Favorites";
+"tab_settings" = "Settings";
+
+"search_placeholder" = "Search recipes";
+"filter_no_fridge" = "No fridge needed";
+"add_to_plan" = "Add to Plan";
+"add_to_favorites" = "Add to Favorites";
+"added_to_favorites" = "Added to Favorites";
+
+"create_trip" = "Create Trip";
+"trip_name" = "Trip name";
+"generate_groceries" = "Generate Groceries";
+"breakfast" = "Breakfast";
+"lunch" = "Lunch";
+"dinner" = "Dinner";
+"snack" = "Snack";
+
+"theme" = "Theme";
+"theme_light" = "Light";
+"theme_dark" = "Dark";
+"theme_system" = "System";
+
+"language" = "Language";
+"privacy" = "Privacy Policy";
+"about" = "About";
+"open" = "Open";
+
+"empty_recipes" = "No recipes yet";
+"empty_planner" = "No trips yet";
+"empty_groceries" = "Your list is empty";
+"empty_favorites" = "No favorites yet";
+
+"clear_checked" = "Clear checked";
+"add_item" = "Add item";
+"aisle" = "Aisle";
+"saved" = "Saved";
+
+
+
+"quick_packs" = "Quick Packs";
+"recipes_count" = "%d recipes";
+
+"close" = "Close";
+"create" = "Create";
+"start" = "Start";
+"end" = "End";
+"name" = "Name";
+"qty" = "Qty";
+"unit" = "Unit";
+
+
+"ok" = "OK";
+"added_to_plan" = "Added to Plan";
+"added_to_favorites" = "Added to Favorites";
+"added_to_groceries" = "Added to Groceries";
+
+"digits_only" = "Digits only, please";
+
+
+
+"ok" = "OK";
+"added_to_plan" = "Added to Plan";
+"added_to_favorites" = "Added to Favorites";
+"tags" = "Tags";
+"clear" = "Clear";
+"ingredients" = "Ingredients";
+"steps" = "Steps";
+"approx_minutes" = "~%d min";
+"name" = "Name";
+"time_min" = "Time (min)";
+"example_10" = "e.g. 10";
+"ingredients_csv" = "Ingredients (comma-separated)";
+"steps_one_per_line" = "Steps (one per line)";
+"add_recipe" = "Add Recipe";
+"close" = "Close";
+"save" = "Save";
+"digits_only" = "Digits only, please";
+
+"lang_en_name" = "English";
+"lang_es_name" = "Español";
+"lang_fr_name" = "Français";
+
+
+"tag_road" = "road";
+"tag_flight" = "flight";
+"tag_hotel" = "hotel";
+"tag_no_fridge" = "no-fridge";
+"tag_kids" = "kids";
+"tag_5_min" = "5-min";
+"tag_vegetarian" = "vegetarian";
+"tag_high_protein" = "high-protein";
+"tag_snack" = "snack";
+
+"recipes_word" = "recipes";

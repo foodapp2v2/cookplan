@@ -1,0 +1,93 @@
+"app_name" = "Cook Plan Roar";
+"tab_recipes" = "Recettes";
+"tab_planner" = "Planificateur";
+"tab_groceries" = "Courses";
+"tab_favorites" = "Favoris";
+"tab_settings" = "Réglages";
+
+"search_placeholder" = "Rechercher des recettes";
+"filter_no_fridge" = "Sans frigo";
+"add_to_plan" = "Ajouter au plan";
+"add_to_favorites" = "Ajouter aux favoris";
+"added_to_favorites" = "Ajouté aux favoris";
+
+"create_trip" = "Créer un voyage";
+"trip_name" = "Nom du voyage";
+"generate_groceries" = "Générer la liste de courses";
+"breakfast" = "Petit-déjeuner";
+"lunch" = "Déjeuner";
+"dinner" = "Dîner";
+"snack" = "Encas";
+
+"theme" = "Thème";
+"theme_light" = "Clair";
+"theme_dark" = "Sombre";
+"theme_system" = "Du système";
+
+"language" = "Langue";
+"privacy" = "Politique de confidentialité";
+"about" = "À propos";
+"open" = "Ouvrir";
+
+"empty_recipes" = "Pas encore de recettes";
+"empty_planner" = "Pas encore de voyages";
+"empty_groceries" = "Votre liste est vide";
+"empty_favorites" = "Pas encore de favoris";
+
+"clear_checked" = "Effacer cochés";
+"add_item" = "Ajouter un article";
+"aisle" = "Rayon";
+"saved" = "Enregistré";
+
+"digits_only" = "Chiffres uniquement, s’il vous plaît";
+
+"quick_packs" = "Packs rapides";
+"recipes_count" = "%d recettes";
+
+"close" = "Fermer";
+"create" = "Créer";
+"start" = "Début";
+"end" = "Fin";
+"name" = "Nom";
+"qty" = "Qté";
+"unit" = "Unité";
+
+"ok" = "OK";
+"added_to_plan" = "Ajouté au plan";
+"added_to_favorites" = "Ajouté aux favoris";
+"added_to_groceries" = "Ajouté aux courses";
+
+
+"ok" = "OK";
+"added_to_plan" = "Ajouté au plan";
+"added_to_favorites" = "Ajouté aux favoris";
+"tags" = "Étiquettes";
+"clear" = "Effacer";
+"ingredients" = "Ingrédients";
+"steps" = "Étapes";
+"approx_minutes" = "~%d min";
+"name" = "Nom";
+"time_min" = "Temps (min)";
+"example_10" = "ex. 10";
+"ingredients_csv" = "Ingrédients (séparés par des virgules)";
+"steps_one_per_line" = "Étapes (une par ligne)";
+"add_recipe" = "Ajouter une recette";
+"close" = "Fermer";
+"save" = "Enregistrer";
+"digits_only" = "Chiffres uniquement, s’il vous plaît";
+
+"lang_en_name" = "Anglais";
+"lang_es_name" = "Espagnol";
+"lang_fr_name" = "Français";
+
+"tag_road" = "route";
+"tag_flight" = "vol";
+"tag_hotel" = "hôtel";
+"tag_no_fridge" = "sans frigo";
+"tag_kids" = "enfants";
+"tag_5_min" = "5 min";
+"tag_vegetarian" = "végétarien";
+"tag_high_protein" = "riche en protéines";
+"tag_snack" = "encas";
+
+"recipes_word" = "recettes";

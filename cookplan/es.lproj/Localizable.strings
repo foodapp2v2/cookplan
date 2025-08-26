@@ -1,0 +1,95 @@
+"app_name" = "Cook Plan Roar";
+"tab_recipes" = "Recetas";
+"tab_planner" = "Planificador";
+"tab_groceries" = "Compras";
+"tab_favorites" = "Favoritos";
+"tab_settings" = "Ajustes";
+
+"search_placeholder" = "Buscar recetas";
+"filter_no_fridge" = "Sin nevera";
+"add_to_plan" = "Añadir al plan";
+"add_to_favorites" = "Añadir a favoritos";
+"added_to_favorites" = "Añadido a favoritos";
+
+"create_trip" = "Crear viaje";
+"trip_name" = "Nombre del viaje";
+"generate_groceries" = "Generar lista de compras";
+"breakfast" = "Desayuno";
+"lunch" = "Almuerzo";
+"dinner" = "Cena";
+"snack" = "Snack";
+
+"theme" = "Tema";
+"theme_light" = "Claro";
+"theme_dark" = "Oscuro";
+"theme_system" = "Del sistema";
+
+"language" = "Idioma";
+"privacy" = "Política de privacidad";
+"about" = "Acerca de";
+"open" = "Abrir";
+
+"empty_recipes" = "Aún no hay recetas";
+"empty_planner" = "Aún no hay viajes";
+"empty_groceries" = "Tu lista está vacía";
+"empty_favorites" = "Aún no hay favoritos";
+
+"clear_checked" = "Borrar marcados";
+"add_item" = "Añadir artículo";
+"aisle" = "Pasillo";
+"saved" = "Guardado";
+
+
+"digits_only" = "Solo números, por favor";
+"quick_packs" = "Paquetes rápidos";
+"recipes_count" = "%d recetas";
+
+"close" = "Cerrar";
+"create" = "Crear";
+"start" = "Inicio";
+"end" = "Fin";
+"name" = "Nombre";
+"qty" = "Cant.";
+"unit" = "Unidad";
+
+
+"ok" = "OK";
+"added_to_plan" = "Añadido al plan";
+"added_to_favorites" = "Añadido a favoritos";
+"added_to_groceries" = "Añadido a compras";
+
+
+
+"ok" = "OK";
+"added_to_plan" = "Añadido al plan";
+"added_to_favorites" = "Añadido a favoritos";
+"tags" = "Etiquetas";
+"clear" = "Borrar";
+"ingredients" = "Ingredientes";
+"steps" = "Pasos";
+"approx_minutes" = "~%d min";
+"name" = "Nombre";
+"time_min" = "Tiempo (min)";
+"example_10" = "p. ej., 10";
+"ingredients_csv" = "Ingredientes (separados por comas)";
+"steps_one_per_line" = "Pasos (uno por línea)";
+"add_recipe" = "Añadir receta";
+"close" = "Cerrar";
+"save" = "Guardar";
+"digits_only" = "Solo números, por favor";
+
+"lang_en_name" = "Inglés";
+"lang_es_name" = "Español";
+"lang_fr_name" = "Francés";
+
+"tag_road" = "carretera";
+"tag_flight" = "vuelo";
+"tag_hotel" = "hotel";
+"tag_no_fridge" = "sin nevera";
+"tag_kids" = "niños";
+"tag_5_min" = "5 min";
+"tag_vegetarian" = "vegetariano";
+"tag_high_protein" = "alto en proteína";
+"tag_snack" = "snack";
+
+"recipes_word" = "recetas";
